@@ -1,5 +1,5 @@
 <h1 align="center">
-.::HELLO WORLD::. <br>🫡Seja Bem-Vindo!👋</h1>
+<hr>.::HELLO WORLD::.<hr> <br>🫡Seja Bem-Vindo!👋</h1>
 
 >Aspirante a desenvolvedor, em busca da experiência na área, disponível para aprender a desenvolver em qualquer linguagem.
 
